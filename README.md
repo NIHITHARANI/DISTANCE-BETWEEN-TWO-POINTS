@@ -10,7 +10,8 @@ Take the two coordinates as l1 and l2.
 ### Step 3: 
 Substitute the values in the distance formula
 
-![formula](./images/formula.png)
+![image](https://github.com/user-attachments/assets/c81d9bf4-cb91-4c6d-89e2-2e2adc2ae2f8)
+
 ### Step 4: 
 using the print function, display the distance between the two points.
 ### Step 5: 
@@ -28,7 +29,8 @@ print("{:.2f}".format(d))
 ```
   
 ### OUTPUT:
-![OUTPUT](./images/Distance.png)
+![image](https://github.com/user-attachments/assets/10333b14-f0ab-4be6-a056-176c3720ca5e)
+
 
 ### RESULT:
 Thus the distance of the two points is sucessfully executed and displayed.
